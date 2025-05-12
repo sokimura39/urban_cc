@@ -23,9 +23,9 @@ By making urban data accessible to all through various strategies and combining 
 
 ## About the Website
 
-This website is created for the ARC6975 Trajectories in Spatial Practices as part of the MA Urban Design course at the University of Sheffield's School of Architecture and Landscape. 
+This website is created for the ARC6975 Trajectories in Spatial Practices module as part of the MA Urban Design course at the University of Sheffield's School of Architecture and Landscape. 
 
-Here I walk through the [*Urban Data & Design Game*](game.qmd) that I have created for the game, as well as [additional insights from the datasets](data.qmd) that could not be expressed through the deliverables.
+Here I walk through the [*Urban Data & Design Game*](game.qmd) that I have created for the course, as well as [additional insights from the datasets](data.qmd) that could not be expressed through the deliverables.
 
 ## About the Site of Interest
 

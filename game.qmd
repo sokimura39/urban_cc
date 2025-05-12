@@ -7,7 +7,7 @@ toc: true
 
 ## The Rulebook
 
-This page is the online version of the rulebook. 
+This page is the online version of the rulebook. A [PDF version](https://github.com/sokimura39/urban_cc/blob/main/resources/rulebook_all.pdf) is also available.
 
 ### The Objective
 
