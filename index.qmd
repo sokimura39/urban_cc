@@ -1,9 +1,11 @@
 ---
 title: "Urban Creative Commons"
+execute:
+  echo: false
 about:
   id: about
   template: marquee
-  image: img/map_merged.png
+  image: img/city_view.jpg
   links:
     - icon: github
       text: GitHub
@@ -17,6 +19,26 @@ By making urban data accessible to all through various strategies and combining 
 
 :::
 
+---
 
+## About the Website
+
+This website is created for the ARC6975 Trajectories in Spatial Practices as part of the MA Urban Design course at the University of Sheffield's School of Architecture and Landscape. 
+
+Here I walk through the [*Urban Data & Design Game*](game.qmd) that I have created for the game, as well as [additional insights from the datasets](data.qmd) that could not be expressed through the deliverables.
+
+## About the Site of Interest
+
+The site chosen for this project is the harbour city of Shimizu, Shizuoka in central Japan. It is known for one of the most beautiful ports in Japan, having the iconic Mount Fuji building up from the sea, along with the world heritage site of Miho no Matsubara. It is a large trade port, with major exports including motorcycles, paper and paper products, and automobile parts, while fuels and paper ingredients being some of the major imports through the docks.
+
+Various issues and risks are associated with the city (along with other areas along the Pacific Coast), the major one being the Nankai Trough Earthquake, with a probability of occurring within the next 30 years being estimated at 70%. Tsunamis, flooding, and population decline have are all issues that the city faces. The aim of this project to guide the discussion to the future through the lens of urban analysis that can be accessible by everyone.
+
+```{r}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = 138.5000, lat = 35.0167, zoom = 12) %>%
+  addMarkers(lng = 138.5000, lat = 35.0167, popup = "Shimizu, Shizuoka, Japan")
+```
 
 

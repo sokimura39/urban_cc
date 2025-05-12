@@ -5,5 +5,61 @@
     "title": "Urban Creative Commons",
     "section": "",
     "text": "Urban Creative Commons is a speculative practice headed by Soki Kimura that aims to bridge the gap between the stream of urban data analysis and the field of placemaking and urban design, aiming to close the divide between those with and without access to the overwhelming datasets of the modern era. By making urban data accessible to all through various strategies and combining with urban design techniques, we seek for the commoning of advanced spatial analysis to inform decisions by citizens and planners alike.\n \n    \n  \n    \n     GitHub"
+  },
+  {
+    "objectID": "index.html#about-the-website",
+    "href": "index.html#about-the-website",
+    "title": "Urban Creative Commons",
+    "section": "About the Website",
+    "text": "About the Website\nThis website is created for the ARC6975 Trajectories in Spatial Practices as part of the MA Urban Design course at the University of Sheffield’s School of Architecture and Landscape.\nHere I walk through the Urban Data & Design Game that I have created for the game, as well as additional insights from the datasets that could not be expressed through the deliverables."
+  },
+  {
+    "objectID": "index.html#about-the-site-of-interest",
+    "href": "index.html#about-the-site-of-interest",
+    "title": "Urban Creative Commons",
+    "section": "About the Site of Interest",
+    "text": "About the Site of Interest\nThe site chosen for this project is the harbour city of Shimizu, Shizuoka in central Japan. It is known for one of the most beautiful ports in Japan, having the iconic Mount Fuji building up from the sea, along with the world heritage site of Miho no Matsubara. It is a large trade port, with major exports including motorcycles, paper and paper products, and automobile parts, while fuels and paper ingredients being some of the major imports through the docks.\nVarious issues and risks are associated with the city (along with other areas along the Pacific Coast), the major one being the Nankai Trough Earthquake, with a probability of occurring within the next 30 years being estimated at 70%. Tsunamis, flooding, and population decline have are all issues that the city faces. The aim of this project to guide the discussion to the future through the lens of urban analysis that can be accessible by everyone."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "The Context from the Data",
+    "section": "",
+    "text": "The digital map of Shimizu, showing Mount Fuji in the background."
+  },
+  {
+    "objectID": "data.html#the-risks",
+    "href": "data.html#the-risks",
+    "title": "The Context from the Data",
+    "section": "The Risks",
+    "text": "The Risks\nShimizu is facing multiple issues that impact the city’s future. While these issues are not unique to this city but rather a common phenomenon in Japan, Shimizu was used as a prime example of such issues.\n\nThe Decline of Population\nThe population decline is a severe issue, with the population expected to half by 2070.\n\n\n\nThe change of population between 2020 and 2070.\n\n\nThe population density of each area is predicted to change as shown here.\n\n202020302040205020602070\n\n\n\n\n\nPopulation distribution in 2020\n\n\n\n\n\n\n\nPopulation distribution in 2030\n\n\n\n\n\n\n\nPopulation distribution in 2040\n\n\n\n\n\n\n\nPopulation distribution in 2050\n\n\n\n\n\n\n\nPopulation distribution in 2060\n\n\n\n\n\n\n\nPopulation distribution in 2070\n\n\n\n\n\n\n\nEarthquakes, Tsunamis, and Liquefaction\nEarthquakes have always been the threat to the Pacific region in Japan. The architecture stock in Japan might be able to withstand the force of the earthquake itself, but the tsunami and liquefaction that follow lead to serious consequences.\nThe Nankai Trough earthquake\nHere, we visualize the two major factors that are the consequences of the earthquake. We must note that the magnitude of the earthquake is very severe in all parts of the city.\n\nTsunamiLiquefaction\n\n\n\n\n\nThe height of the tsunamis in this area. Darker colours show higher tsunamis, with the highest reaching over 2 metres.\n\n\n\n\n\n\n\nThe liquefaction caused by the earthquake is more severe in areas with darker colour - the city centre and the docklands heavily impacted.\n\n\n\n\n\n\n\nFlooding\nFlooding due to excessive rain is a large issue. The various rivers that run through the city has caused flooding in the past, and is still expected to occur during events of heavy rain.\n\n\n\nThe expected flooding depth due to excessive rain in the most extreme scenario. Some areas are predicted to flood for over 3 metres."
+  },
+  {
+    "objectID": "data.html#the-potential",
+    "href": "data.html#the-potential",
+    "title": "The Context from the Data",
+    "section": "The Potential",
+    "text": "The Potential\nAt the same time, there are multiple factors that are positive. The most valuable assets might be the views of Mount Fuji and the World Heritage Site of Miho Pine Groves, but the data also indicates tangible assets.\n\nLand Value\nThe land value is higher in areas with high potential - this includes around the station and the harbourside. These areas are of high demand, potentially being sites for redevelopment.\n\n\n\nLand value distribution, with high points around the stations and along the Tokaido Line that links Shimizu with the larger Shizuoka City nearby.\n\n\n\n\nElevation\nThe physical aspects must not be forgotten - the natural aspects are also what makes this area special. The Nihondaira Highlands is an ideal spot to look around the city, thanks to its elevation. It also provides precious evacuation sites during tsunamis.\n\nDigital MapPicture from On Site\n\n\n\n\n\nThe digital map of Shimizu showing the elevation.\n\n\n\n\n\n\n\nThe view of Mount Fuji from Nihondaira in Shimizu. This is also a precious asset of the city."
+  },
+  {
+    "objectID": "game.html",
+    "href": "game.html",
+    "title": "Urban Data & Design Game",
+    "section": "",
+    "text": "The Data & Design Game"
+  },
+  {
+    "objectID": "game.html#the-rulebook",
+    "href": "game.html#the-rulebook",
+    "title": "Urban Data & Design Game",
+    "section": "The Rulebook",
+    "text": "The Rulebook\nThis page is the online version of the rulebook.\n\nThe Objective\nThe objective of the game is to use data as an integrated factor of thinking about the city’s future. Using different datasets available, we aim to speculate the future that takes into account the various risks that are often overlooked but should be included in the decision-making process.\n\n\nThe components\n\n\nThe hexagons\nThe hexagons come in 2 colours, blue and red. Depending on the situation and your likings, these can be used to represent various things - either positive or negative.\n\n\n\nThe hexagons come in 2 colours.\n\n\nHere are some of the ways these can be used.\n\nTwo types of risks\nThe two colours can be used to indicate two different types of risks, for instance the following:\n\n\n\nBlue\nRed\n\n\n\n\nFlooding\nTsunami\n\n\nFlooding\nEarthquake\n\n\nEarthquake\nLiquefaction\n\n\n\n\n\nRisk and Potential\nAlternatively, one colour can be assigned for risks whilst the other for potential, showing the tension between the two - harbourside areas might have a lot of potential, but might be risky.\n\n\n\nBlue (Potential)\nRed (Risk)\n\n\n\n\nLand Value\nFlooding\n\n\nPopulation\nFlooding\n\n\n\nPotential should be stacked first, followed by a solid hexagon (this elevates the floor - high potential!), then the risks that surround the building.\n\n\n\nThe hexagons are to be stacked on top of each other - the potential followed by the risk. The buildings should be placed inside the hexagons.\n\n\n\n\n\n\nThe Buildings\nThe building components can be placed to propose land uses in different areas.\n\nRectangle Buildings\nThe rectangular pieces are coloured to show uses:\n\n\n\nRectangular buildings are colour-coded to show different uses.\n\n\nAlternatively, you can use the uncoloured ones to indicate other uses - feel free to colour in different colours!\nFlatter buildings indicate low density development - may be handy in areas with small-scale evelopment.\n\n\nImportant Facilities\nThe pentagonal ‘house-shaped’ buildings show important points of interest that influence the surroundings. These include train stations, harbour facilities, large shopping centres, and leisure complexes. These are considered significant due to the potential positive impact they have on the surroundings, boosting the development potential for the area.\n\n\nGreen Spaces\nGreen space constitute an important aspect of the city, and have their own pieces. Sometimes river floodplains are converted into parks, storing floodwater to prevent damage to the built-up areas. We must not forget the World Heritage Site of Miho-no-Matsubara pine grove, which is a significant cultural asset of Shimizu!\n\n\n\nImportant facilities and green spaces have their own pieces.\n\n\n\n\n\nThe Gemeplay\nThe gameplay is a fairly freeform structure, enabling the speculation of the players that are involved.\n\nPlace the board on a large table, on a carpet, or anywhere at the middle of the group.\nPlace the hexagons based on the chosen risks/potentials on the site.\nLooking at the data, discuss amongst yourselves on how the various functions of the city can be (or should not be) placed within the region.\nIf there are any projects that change the risk/potential, feel free to move the hexagons.\nIf the components of the game cannot express your opinions, bring other things into the conversation!\n\n\n\nThe Goal\nThe game will be finished when there were fruitful discussions about incorporating the various risk/potential factors within your urban design proposal as a team."
+  },
+  {
+    "objectID": "game.html#the-game-sheets",
+    "href": "game.html#the-game-sheets",
+    "title": "Urban Data & Design Game",
+    "section": "The Game Sheets",
+    "text": "The Game Sheets\nThe following can be used a a guide to place the hexagons. For more information on the datasets, visit the Datasets page.\n\nRisks within the Area\nThese are some of the risks that are apparent in Shimizu.\n\n\n\nFlooding risks\n\n\n\n\n\nLiquefaction\n\n\n\n\n\nTsunami\n\n\n\n\nPotentials\nStill, the city has its potentials that can be used in the game as well.\n\n\n\nPopulation\n\n\n\n\n\nLand Value"
   }
 ]

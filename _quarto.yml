@@ -4,17 +4,20 @@ project:
 
 website:
   title: "Urban Creative Commons"
-  favicon: img/favicon.png
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: data.qmd
+        text: The Datasets
+      - href: game.qmd
+        text: The Game
     tools:
       - icon: github
         href: https://github.com/sokimura39/urban_cc
 
 format:
   html:
-    theme: cerulean
+    theme: lumen
     toc: false
 

@@ -1,0 +1,94 @@
+---
+title: The Context from the Data
+toc: true
+execute:
+  echo: false
+---
+
+![The digital map of Shimizu, showing Mount Fuji in the background.](img/map_merged.png)
+
+## The Risks
+
+Shimizu is facing multiple issues that impact the city's future. While these issues are not unique to this city but rather a common phenomenon in Japan, Shimizu was used as a prime example of such issues.
+
+### The Decline of Population
+
+The population decline is a severe issue, with the population expected to half by 2070.
+
+![The change of population between 2020 and 2070.](img/pop_graph.png)
+
+The population density of each area is predicted to change as shown here.
+
+::: {.panel-tabset}
+
+### 2020
+![Population distribution in 2020](img/shimizu_pop_2020.png)
+
+### 2030
+![Population distribution in 2030](img/shimizu_pop_2030.png)
+
+### 2040
+![Population distribution in 2040](img/shimizu_pop_2040.png)
+
+### 2050
+![Population distribution in 2050](img/shimizu_pop_2050.png)
+
+### 2060
+![Population distribution in 2060](img/shimizu_pop_2060.png)
+
+### 2070
+![Population distribution in 2070](img/shimizu_pop_2070.png)
+
+:::
+
+### Earthquakes, Tsunamis, and Liquefaction
+
+Earthquakes have always been the threat to the Pacific region in Japan. The architecture stock in Japan might be able to withstand the force of the earthquake itself, but the tsunami and liquefaction that follow lead to serious consequences.
+
+The Nankai Trough earthquake
+
+Here, we visualize the two major factors that are the consequences of the earthquake. We must note that the magnitude of the earthquake is very severe in all parts of the city.
+
+::: {.panel-tabset}
+
+### Tsunami
+
+![The height of the tsunamis in this area. Darker colours show higher tsunamis, with the highest reaching over 2 metres.](img/map_overall_tsunami.png)
+
+### Liquefaction
+
+![The liquefaction caused by the earthquake is more severe in areas with darker colour - the city centre and the docklands heavily impacted.](img/map_overall_liquefaction.png)
+
+:::
+
+### Flooding
+
+Flooding due to excessive rain is a large issue. The various rivers that run through the city has caused flooding in the past, and is still expected to occur during events of heavy rain.
+
+![The expected flooding depth due to excessive rain in the most extreme scenario. Some areas are predicted to flood for over 3 metres.](img/map_overall_flooding.png)
+
+## The Potential
+
+At the same time, there are multiple factors that are positive. The most valuable assets might be the views of Mount Fuji and the World Heritage Site of Miho Pine Groves, but the data also indicates tangible assets.
+
+### Land Value
+
+The land value is higher in areas with high potential - this includes around the station and the harbourside. These areas are of high demand, potentially being sites for redevelopment.
+
+![Land value distribution, with high points around the stations and along the Tokaido Line that links Shimizu with the larger Shizuoka City nearby.](img/map_overall_land_value.png)
+
+### Elevation
+
+The physical aspects must not be forgotten - the natural aspects are also what makes this area special. The Nihondaira Highlands is an ideal spot to look around the city, thanks to its elevation. It also provides precious evacuation sites during tsunamis.
+
+::: {.panel-tabset}
+
+### Digital Map
+
+![The digital map of Shimizu showing the elevation.](img/map_merged.png)
+
+### Picture from On Site
+
+![The view of Mount Fuji from Nihondaira in Shimizu. This is also a precious asset of the city.](img/nihondaira.jpg)
+
+:::
