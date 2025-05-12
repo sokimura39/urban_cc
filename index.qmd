@@ -1,0 +1,22 @@
+---
+title: "Urban Creative Commons"
+about:
+  id: about
+  template: marquee
+  image: img/map_merged.png
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sokimura39/urban_cc
+---
+
+:::{#about}
+
+Urban Creative Commons is a *speculative* practice headed by [Soki Kimura](https://sokimura39.github.io/) that aims to bridge the gap between the stream of urban data analysis and the field of placemaking and urban design, aiming to close the divide between those with and without access to the overwhelming datasets of the modern era.
+By making urban data accessible to all through various strategies and combining with urban design techniques, we seek for the commoning of advanced spatial analysis to inform decisions by citizens and planners alike. 
+
+:::
+
+
+
+

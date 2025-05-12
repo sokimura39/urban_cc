@@ -1,0 +1,23 @@
+# Quarto generated files
+_site/
+.quarto/
+
+# R and RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
+/.quarto/

@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Urban Creative Commons"
+  favicon: img/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    tools:
+      - icon: github
+        href: https://github.com/sokimura39/urban_cc
+
+format:
+  html:
+    theme: cerulean
+    toc: false
+
